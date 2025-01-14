@@ -8,4 +8,5 @@
 <div>
   <a href="https://github.com/cleiton-405">
     <img height="180em" src="https://github.com-readme-stats.vercel.app/api?username-cleiton-405&show_icons=true&theme=dark&include_all_commits=true&count__private=true"/>
+    <img height="180em" src="https://github.com-readme-stats.vercel.app/api/top-langs/?username=cleiton-405&layout=compact&langs_count=16&theme=dark"/>
 </div>
