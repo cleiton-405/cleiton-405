@@ -5,8 +5,4 @@
 - 💬 Um jovem em busca do seu sonho em tornar-se programador.
 - 📫 E-mail: cleiton4055@hotmail.com
 
-<div>
-  <a href="https://github.com/cleiton-405">
-    <img height="180em" src="https://github.com-readme-stats.vercel.app/api?username-cleiton-405&show_icons=true&theme=dark&include_all_commits=true&count__private=true"/>
-    <img height="180em" src="https://github.com-readme-stats.vercel.app/api/top-langs/?username=cleiton-405&layout=compact&langs_count=16&theme=dark"/>
-</div>
+![js](https://github.com/user-attachments/assets/556274c5-a42e-49fe-b527-7de86d5c9380)
